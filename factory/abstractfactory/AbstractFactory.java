@@ -1,4 +1,7 @@
 package factory.abstractfactory;
 
-public class AbstractFactory {
+
+public interface AbstractFactory {
+    public abstract Fruit getFruit();
+
 }

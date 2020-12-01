@@ -1,4 +1,6 @@
 package bridage;
 
-public class Brand {
+public interface Brand {
+    public abstract void open();
+
 }

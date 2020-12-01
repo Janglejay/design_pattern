@@ -1,4 +1,5 @@
 package adapter;
 
-public class To5 {
+public interface To5 {
+    public abstract int changeTo5();
 }

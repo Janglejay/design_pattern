@@ -1,8 +1,9 @@
-package factory.factorymethod;
+package factory.abstractfactory;
 
-public class PeachFactory extends AbstractFactory {
+
+public class PeachFactory implements AbstractFactory {
     @Override
-    public Fruit getFruit(String name) {
-        return new Peach();
+    public Fruit getFruit() {
+        return new Apple();
     }
 }

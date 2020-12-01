@@ -1,4 +1,4 @@
-package factory.factorymethod;
+package factory.abstractfactory;
 
 public class Fruit {
     String name;

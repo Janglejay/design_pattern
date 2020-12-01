@@ -1,4 +1,6 @@
 package factory.factorymethod;
 
-public class AbstractFactory {
+public abstract class AbstractFactory {
+    public abstract Fruit getFruit(String name);
+
 }

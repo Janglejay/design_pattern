@@ -1,5 +1,5 @@
-package factory.simplefactory;
+package factory.factorymethod;
 
-public class Peach extends Fruit{
+public class Peach extends Fruit {
 
 }

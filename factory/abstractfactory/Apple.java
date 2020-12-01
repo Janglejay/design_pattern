@@ -1,4 +1,4 @@
-package factory.factorymethod;
+package factory.abstractfactory;
 
 public class Apple extends Fruit {
 

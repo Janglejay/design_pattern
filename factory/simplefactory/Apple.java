@@ -1,4 +1,5 @@
 package factory.simplefactory;
 
-public class Apple {
+public class Apple extends Fruit{
+
 }
